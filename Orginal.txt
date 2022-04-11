@@ -1,0 +1,11 @@
+Don_Quixote         Miguel_de_C.       AST      M  1605  100.6
+The_Alchemist       Pualo_Coelho       ISBN     M  1988  255.5
+The_Hobbit          R.R.Tolkien        GAU      M  1937  162.5
+Black_Beauty        Anna_Sewell        HThPL    M  1877  210.5 
+Charlottes_Web      E.B.White          US       M  1952  150.2
+Noddy_series        Enid_Blyton        NLB      M  1949  190.2
+Peter_Rabbit        Beatrix_Potter     PB       M  1901  150.4
+Mr.Men              Roger_H            EB       M  1971  200.5
+Martine             G.Delahaye         KDP      M  1954  300.3
+
+  

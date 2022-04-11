@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1588945009 source:d:\lab-6\main.cpp
+	"headline.h"
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+
+1588947120 d:\lab-6\headline.h
+
+1266065414 d:\a.sh.v\krsu\Œ¿œ\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1588947519 source:d:\lab-6\second.cpp
+	"headline.h"
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<malloc.h>
+
+1588947422 source:d:\lab-6\first.cpp
+	"headline.h"
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+	<unistd.h>
+
